@@ -4,5 +4,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/sebas/Downloads/org.eclipse.paho.client.mqttv3-1.2.5.jar" sourcepath=""/>
 	<classpathentry kind="lib" path="C:/Users/sebas/Downloads/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/Downloads/jsch-0.1.55.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/Downloads/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
